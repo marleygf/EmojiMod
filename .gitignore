@@ -77,3 +77,6 @@ $RECYCLE.BIN/
 
 # Spriter files
 *.autosave.scml
+/sendToDevs/mts_uploader.log
+/steam_appid.txt
+/upload.ps1
