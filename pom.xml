@@ -3,7 +3,7 @@
     <groupId>emojimod</groupId>
     <artifactId>EmojiMod</artifactId>
     <name>Emoji Mod</name>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <description>
         Emojis have taken over the spire All base game cards are translated and attempts to translate modded cards too. Emojis are from Google and Twitter.
     </description>
@@ -13,7 +13,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <SlayTheSpire.version>01-23-2019</SlayTheSpire.version>
         <ModTheSpire.version>3.8.0</ModTheSpire.version>
-        <Steam.path>C:/Program Files (x86)/Steam/steamapps</Steam.path>
+        <Steam.path>D:/Steam/steamapps</Steam.path>
     </properties>
 
     <dependencies>
